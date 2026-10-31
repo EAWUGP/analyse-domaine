@@ -43,21 +43,21 @@
 - Types d'entreprises : Bureau de travail
 - Exemple d'entreprise : Ubisoft, Beenox, Genatec, SoftFlow, etc...
 
-![Nom de l'entreprise](entreprise.jpg)
+![Ubisoft](entreprise.jpg)
 
-(source de l'image : ...)
+(source de l'image : https://montreal.ubisoft.com)
 
-- Types de produits et de services : ...
-- Étapes de production : ...
-- Type d'emploi visé : ...
-- Étapes pour obtenir cet emploi : ...
+- Types de produits et de services : Jeux vidéos et hébergement d'une application pour sortir pour leurs jeux
+- Étapes de production : La conception, la préproduction, la production, l'alpha, la bêta et le jeu final
+- Type d'emploi visé : Développeur
+- Étapes pour obtenir cet emploi : formation spécialisée pour le déevloppement de jeux vidéo et d'avoir un portfolio solide
 
 ## Conclusion
 
-- Mon profil en une phrase : ...
-- Ce qui m'a surpris : ...
-- Ma force principale et la faiblesse à travailler : ...
-- Mon action d'ici la fin de la session : ...
+- Mon profil en une phrase : Je suis une personne nerdy et très organisé
+- Ce qui m'a surpris : Je ne suis vraiment pas une personne créative, je suis plus du genre technique
+- Ma force principale et la faiblesse à travailler : Je suis plus fort dans la programmation et je devrais plus travailler sur ma créativité
+- Mon action d'ici la fin de la session : M'améliorer dans tout se qui est relié à la programmation et au web
 
 ## Ma capsule
 
