@@ -18,30 +18,30 @@
 | Vidéo et animation 2D | Beaucoup | Mon père est fasciné avec la vidéo, il possède plusieur caméras et cela fait que je m'y interesse aussi |
 | 3D | Pas beaucoup | J'ai déjà essayer d'apprendre comment utiliser les outils pour faire de la 3D mais toujours trouvé cela trop compliqué |
 | Web | Beaucoup | J'en ai toujours fait, j'adore le web et j'ai déjà fais plusieurs site webs pour mes amis |
-| Jeux vidéo | ... | ... |
-| Développement logiciel | ... | ... |
-| Installations et expériences immersives | ... | ... |
+| Jeux vidéo | Beaucoup | J'ai toujours eu une grande passion avec les jeux vidéos, j'ai aidé mes amis à en faire et je joue à des jeux vidéos depuis que je suis tout petit |
+| Développement logiciel | Un peu | J'en ai fait un peu dans le passé, mais je ne me vois pas travailler dans ce domaine dans le futur |
+| Installations et expériences immersives | Pas beaucoup | Je trouve que ces expérience sont vraiment amusantes et intriguantes, mais je ne pense pas que j'aimerais travailler dans ce domaine quand je serais plus vieux |
 
 ## Mes 2 domaines préférés
 
-### Domaine 1 : ...
+### Domaine 1 : Cybersécurité
 
-- Expérience : ...
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Expérience : Un peu, j'en ai appris grandement durant l'été et je crois aimer et avoir beaucoup d'intérêt dans le domaine
+- Logiciels et outils : Le système d'exploitation Linux et Wireshark, un analyseur de paquets open source
+- Pourquoi il m'intéresse : J'ai commencé à apprendre ces outils, surtout Linux, il y a plusieurs années, je suis comfortable avec ces outils déjà donc je crois être assez bon pour travailler dans ce domaine dans le future
+- Travailler dans ce domaine : Je crois être capable de devenir assez bon pour travailler dans ce domaine et l'aime à long terme
 
-### Domaine 2 : ...
+### Domaine 2 : Développement de jeux vidéos
 
-- Expérience : ...
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Expérience : Un peu, j'ai aidé beaucoup mes amis à créer des jeux dans le passé et l'expérience était amusante
+- Logiciels et outils : Unity, Unreal engine, Godot, Source, iD Tech
+- Pourquoi il m'intéresse : J'ai aidé à developper des jeux avec mes amis dans le passé donc j'ai déjà un peu d'expérience dans le domaine. J'ai aussi jouer à des jeux vidéos quaisiment toute ma vie donc en faire serait aussi très cool
+- Travailler dans ce domaine : Même durant cette période très épeurante pour le développement de jeux vidéos à cause de l'IA, je crois aimer beaucoup le domaine dans le futur aussi
 
 ## Les caractéristiques de mon domaine préféré
 
-- Types d'entreprises : ...
-- Exemple d'entreprise : ...
+- Types d'entreprises : Bureau de travail
+- Exemple d'entreprise : Ubisoft, Beenox, Genatec, SoftFlow, etc...
 
 ![Nom de l'entreprise](entreprise.jpg)
 
