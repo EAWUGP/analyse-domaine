@@ -14,10 +14,10 @@
 
 | Domaine | Intérêt | Pourquoi |
 |---|---|---|
-| Graphisme | ... | ... |
-| Vidéo et animation 2D | ... | ... |
-| 3D | ... | ... |
-| Web | ... | ... |
+| Graphisme | Un peu | Quand j'étais plus jeune j'ai toujours aimer utiliser des outils de graphisme mais je n'y ai jamais été très bon |
+| Vidéo et animation 2D | Beaucoup | Mon père est fasciné avec la vidéo, il possède plusieur caméras et cela fait que je m'y interesse aussi |
+| 3D | Pas beaucoup | J'ai déjà essayer d'apprendre comment utiliser les outils pour faire de la 3D mais toujours trouvé cela trop compliqué |
+| Web | Beaucoup | J'en ai toujours fait, j'adore le web et j'ai déjà fais plusieurs site webs pour mes amis |
 | Jeux vidéo | ... | ... |
 | Développement logiciel | ... | ... |
 | Installations et expériences immersives | ... | ... |
